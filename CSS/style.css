@@ -1,0 +1,55 @@
+h1{
+   color:red;
+}
+body{
+   background-color:pink;
+}
+p{ 
+  color:blue;
+  font-family:Arial;
+   font-size:26
+} 
+
+img.img-peque{ 
+    width:200px; 
+    heigt:800px; 
+}
+.box{ 
+     width: 300px
+     heigt: 300px
+     background-image: url(../compu.jpg);
+     background-size: cover; 
+     border-radius: 50%; 
+     margi: 0 auto;
+}
+                                           body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+nav li {
+    display: inline; /* Hace que los ítems del menú estén en una línea horizontal */
+    margin-right: 20px; /* Espacio entre los ítems del menú */
+}
+
+nav a {
+    text-decoration: none;
+    color: #fff;
+    font-size: 16px;
+}
+
+nav a:hover {
+    text-decoration: underline;
+}
