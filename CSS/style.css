@@ -133,41 +133,27 @@ nav a:hover {
 	background: #2EBC99;
 }
 
-
-
-div.container{
-  height: 500px;
-  width: 100%;
-  background-color:white;
-  display: flex;
-  justify-content: space-between;
-}
-div.div-1{
-  height: 175px;
-  background-color: red;
-  flex: 1;
-}
-div.div-2{
-  height: 175px;
-  background-color: green;
-  flex: 1;
-  margin-left:25px;
-}
-div.div-3{
-  height: 175px;
-  background-color: yellow;
-  flex: 1;
-  margin-left:25px;
+div.divisioncita{
+	border: 8px solid rgba(217, 75, 75, 0.282);
+	padding-top: 100px;
+	padding-right: 30px;
+	padding-bottom: 50px;
+	padding-left: 80px;
+	margin-top: 100px;
+	margin-bottom: 100px;
+	margin-right: 150px;
+	margin-left: 180px;
+	font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+	background-color: rgb(213, 218, 218);
+	text-align: justify;
 }
 
-img.img-p{
-  width:250px;
-height:250px;
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-
+div.divisioncita2{
+	border: 12px groove rgba(19, 100, 137, 0.282);
+	padding: 50px 30px 50px 80px;
+	margin: 25px 50px 75px 100px;
 }
+
 
 
 
